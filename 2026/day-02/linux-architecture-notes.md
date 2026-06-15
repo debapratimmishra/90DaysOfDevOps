@@ -1,0 +1,1 @@
+About Kernel: Kernel is the core component of a OS
